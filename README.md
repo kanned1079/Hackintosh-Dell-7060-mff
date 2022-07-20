@@ -1,5 +1,6 @@
 # Hackintosh-Dell-7060-mff
-Hackintosh macOS12 for Dell 7060 mff, based on Opencore v0.7.8
+Hackintosh macOS12 for Dell 7060 mff, based on Opencore v0.7.8  
+OpenCore版本 v0.7.8  
 
 ## 硬件总览  
 准系统: Dell OptiPlex 7060 mff  
