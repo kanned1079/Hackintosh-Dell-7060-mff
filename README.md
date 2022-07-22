@@ -10,15 +10,15 @@ GPU: UHD630
 硬盘: WD SN550 1T  
 无线网卡: BCM 94352Z/DW1560  
 
-## BIOS设置  
+## BIOS设置 -> F2  
 General → Advanced Boot Options: `uncheck`  
 System Configuration → SATA Operation: `AHCI`  
 Secure Boot → Secure Boot Enable: `Disabled`  
 Intel® Software Guard Extensions™ → Intel® SGX™ Enable: `Disabled`  
-Power Management → Block Sleep: `check`  
+Power Management → Block Sleep: `uncheck`  
 Virtualization Support → VT for Direct I/O: `uncheck`  
 
-## 开始之前 Grub中设置BIOS  
+## 开始之前 -> Grub中设置BIOS  
 设置显存预分配到64M: `setup_var 0x8DC 0x02`  
 关闭CFGlock: `setup_var 0x5BE 0x00`  
 
