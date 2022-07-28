@@ -1,6 +1,8 @@
 # Hackintosh-Dell-7060-mff
 Hackintosh macOS12 for Dell 7060 mff, based on Opencore v0.7.8  
-OpenCore版本 v0.7.8  
+OpenCore版本 v0.7.8  请使用`EFI0.7.8_macOS12_WIFIfixed.zip`  
+
+对于macOS 11.6 bigSur 请使用`OC0.7.8.zip` 
 
 ## 硬件总览  
 准系统: Dell OptiPlex 7060 mff  
