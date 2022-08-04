@@ -12,6 +12,13 @@ GPU: UHD630
 硬盘: WD SN550 1T  
 无线网卡: BCM 94352Z/DW1560  
 
+## 硬件运行情况  
+### 正常  
+WIFI，蓝牙，双向隔空投送，双向接力，热点，以太网口  
+核心显卡 硬件解码，HIDPI  
+3.5mm耳机接口  
+完美睡眠  
+
 ## BIOS设置 -> F2  
 General → Advanced Boot Options: `uncheck`  
 System Configuration → SATA Operation: `AHCI`  
