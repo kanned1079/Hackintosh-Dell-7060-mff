@@ -4,6 +4,8 @@ OpenCore版本 v0.7.8  请使用`EFI0.7.8_macOS12_WIFIfixed.zip`
 
 对于安装macOS 11.6 bigSur的 请使用`OC0.7.8.zip` 
 
+<img width="586" alt="QQ20220805-2357" src="https://user-images.githubusercontent.com/58361983/183115968-805d7736-3d5a-4b4b-a627-f26948f1b2b5.png">  
+
 ## 硬件总览  
 准系统: Dell OptiPlex 7060 mff  
 CPU: Intel Core i5 8600T (6C6T)  
