@@ -1,5 +1,6 @@
 # Hackintosh-Dell-7060-mff
 Hackintosh macOS12 for Dell 7060 mff, based on Opencore v0.7.8  
+
 对于安装macOS 12.4 Monterey的 请使用`EFI0.7.8_macOS12_WIFIfixed.zip`  
 
 对于安装macOS 11.6 bigSur的 请使用`OC0.7.8.zip` 
