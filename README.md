@@ -5,12 +5,10 @@ Hackintosh macOS12 for Dell 7060 mff, based on Opencore v0.7.8
 
 对于安装macOS 11.6 bigSur的 请使用`OC0.7.8.zip` 
 
-<img width="586" alt="QQ20220805-2357" src="https://user-images.githubusercontent.com/58361983/183115968-805d7736-3d5a-4b4b-a627-f26948f1b2b5.png">  
-
 ## 硬件总览  
 准系统: Dell OptiPlex 7060 mff  
 CPU: Intel Core i5 8600T (6C6T)  
-GPU: UHD630
+GPU: UHD630  
 内存: 8GiB x 2 16G  
 硬盘: WD SN550 1T  
 无线网卡: BCM 94352Z/DW1560  
