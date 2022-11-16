@@ -21,6 +21,7 @@ WIFI，蓝牙，双向隔空投送，双向接力，热点，以太网口
 完美睡眠  
 ### 不正常
 DP，HDMI显示器音频  
+12.4系统下隔空投送  
 
 ## BIOS设置 -> F2  
 General → Advanced Boot Options: `uncheck`  
